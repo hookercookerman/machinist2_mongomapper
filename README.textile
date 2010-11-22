@@ -6,7 +6,7 @@ h2. Usage
 
 Using Machinist MongoMapper is simple. Put this in your @Gemfile@:
 
-bc. gem 'machinist2_mongo', :require => 'machinist/mongo_mapper
+bc. gem 'machinist2_mongomapper', :require => 'machinist/mongo_mapper
 
 And run:
 
