@@ -1,0 +1,15 @@
+h1. Machinist2 MongoMapper
+  
+Machinist2 adaptor for mongo_mapper
+
+h2. Usage
+
+Using Machinist MongoMapper is simple. Put this in your @Gemfile@:
+
+bc. gem 'machinist_mongo', :require => 'machinist/mongo_mapper
+
+And run:
+
+bc. bundle install
+
+And you're all set. Be sure read "Machinist's README":http://github.com/notahat/machinist to find out how to create your objects and get this thing running.
