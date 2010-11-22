@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    machinist_mongomapper (0.0.1)
+    machinist2_mongomapper (0.0.1)
       i18n
       machinist (~> 2.0.0.beta2)
       mongo_mapper (~> 0.8.6)
@@ -41,6 +41,6 @@ DEPENDENCIES
   bson_ext (= 1.1.2)
   i18n
   machinist (~> 2.0.0.beta2)
-  machinist_mongomapper!
+  machinist2_mongomapper!
   mongo_mapper (~> 0.8.6)
   rspec (~> 2.1.0)

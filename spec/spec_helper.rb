@@ -3,7 +3,7 @@ $:.unshift File.expand_path('../../lib', __FILE__)
 
 require 'rubygems'
 require 'bundler'
-require "machinist/mongo_mapper"
+require "machinist_mongomapper"
 require 'rspec'
 
 ::MongoMapper.database = "machinist_mongomapper"
